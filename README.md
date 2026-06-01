@@ -27,7 +27,7 @@ I'm a Data Scientist and ML / AI Engineer based in Lisbon, working at the inters
 - 🎓 **MSc in Data Science** & **BSc in Information Systems & Technologies** — <a href="https://www.novaims.unl.pt/" target="_blank" rel="noopener noreferrer">NOVA IMS</a>, Lisbon
 - 💼 **Capgemini Data & AI Academy** graduate — 12× certified across Databricks, Azure, GCP, Python, and Scrum
 - 🔭 Currently exploring Data Science, ML Engineering, and AI Engineering opportunities
-- ✉️ Reach me on <a href="https://www.linkedin.com/in/hugogncorreia" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a> or <b>Hugocorreia55@hotmail.com</b>
+- ✉️ Reach me on <a href="https://www.linkedin.com/in/hugogncorreia" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a> or **Hugocorreia55@hotmail.com**
 
 ---
 
@@ -79,4 +79,4 @@ I'm a Data Scientist and ML / AI Engineer based in Lisbon, working at the inters
 **Microsoft Azure** — AI Fundamentals · Data Fundamentals  
 **Google Cloud** — Associate Data Practitioner  
 **Python Institute** — PCAP  
-**Scrum.org** — Professional Scrum Master Il Scrum Master I
+**Scrum.org** — Professional Scrum Master I
