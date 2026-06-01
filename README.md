@@ -5,9 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/hugogncorreia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Hugocorreia55@hotmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Lisbon,_Portugal-1F8FD6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/hugogncorreia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:Hugocorreia55@hotmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Lisbon,_Portugal-1F8FD6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+<p align="center">
+  <i>"Turning data into decisions, one pipeline at a time."</i>
 </p>
 
 ---
@@ -19,7 +23,7 @@ I'm a Data Scientist and ML / AI Engineer based in Lisbon, working at the inters
 - 🎓 **MSc in Data Science** & **BSc in Information Systems & Technologies** — NOVA IMS, Lisbon
 - 💼 **Capgemini Data & AI Academy** graduate — 12× certified across Databricks, Azure, GCP, Python, and Scrum
 - 🔭 Currently exploring Data Science, ML Engineering, and AI Engineering opportunities
-- ✉️ Reach me on **[LinkedIn](https://www.linkedin.com/in/hugocorreia)** or **Hugocorreia55@hotmail.com**
+- ✉️ Reach me on <a href="https://www.linkedin.com/in/hugogncorreia" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a> or **Hugocorreia55@hotmail.com**
 
 ---
 
@@ -58,14 +62,10 @@ I'm a Data Scientist and ML / AI Engineer based in Lisbon, working at the inters
 
 ### 📌 Featured Projects
 
-> Projects coming soon — currently building a portfolio focused on RAG applications, end-to-end Databricks pipelines, and production ML workflows. Watch this space.
-
-<!-- When projects are ready, replace the line above with cards like:
 | Project | Description | Stack |
 |---|---|---|
-| [**RAG Knowledge Assistant**](link) | Chatbot over a custom document set | LangChain · Azure OpenAI · Chroma |
-| [**Databricks Medallion Pipeline**](link) | Bronze → Silver → Gold ETL on public data | Databricks · PySpark · Delta Lake |
--->
+| <a href="https://github.com/hugocorreia123/rag-knowledge-assistant" target="_blank" rel="noopener noreferrer"><b>RAG Knowledge Assistant</b></a> | Production-shaped RAG system over the EU AI Act. Four-node LangGraph workflow (rewrite → retrieve → grade → answer/refuse), Streamlit UI, FastAPI REST endpoint, and a hand-written evaluation suite with 100% out-of-scope refusal accuracy. | Python · LangChain · LangGraph · Groq · Chroma · Streamlit · FastAPI |
+| **Databricks Medallion Pipeline** *(in progress)* | Bronze → Silver → Gold ETL on NYC Taxi data with data-quality checks and a SQL dashboard. | Databricks · PySpark · Delta Lake · SQL |
 
 ---
 
@@ -76,14 +76,3 @@ I'm a Data Scientist and ML / AI Engineer based in Lisbon, working at the inters
 **Google Cloud** — Associate Data Practitioner  
 **Python Institute** — PCAP  
 **Scrum.org** — Professional Scrum Master I
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hugocorreia123&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocorreia123&layout=compact&hide_border=true&langs_count=8&theme=default"/>
-</p>
-
-<p align="center"><sub><i>"Turning data into decisions, one pipeline at a time."</i></sub></p>
