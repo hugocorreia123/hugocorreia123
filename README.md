@@ -69,7 +69,7 @@ I'm a Data Scientist and ML / AI Engineer based in Lisbon, working at the inters
 | Project | Description | Stack |
 |---|---|---|
 | <a href="https://github.com/hugocorreia123/rag-knowledge-assistant" target="_blank" rel="noopener noreferrer"><b>RAG Knowledge Assistant</b></a> | Production-shaped RAG system over the EU AI Act. Four-node LangGraph workflow (rewrite → retrieve → grade → answer/refuse), Streamlit UI, FastAPI REST endpoint, and a hand-written evaluation suite with 100% out-of-scope refusal accuracy. | Python · LangChain · LangGraph · Groq · Chroma · Streamlit · FastAPI |
-| <b>Databricks Medallion Pipeline</b> <i>(in progress)</i> | Bronze → Silver → Gold ETL on NYC Taxi data with data-quality checks and a SQL dashboard. | Databricks · PySpark · Delta Lake · SQL |
+| <a href="https://github.com/hugocorreia123/databricks-medallion-pipeline" target="_blank" rel="noopener noreferrer"><b>Databricks Medallion Pipeline</b></a> | End-to-end Bronze → Silver → Gold pipeline on Databricks Free Edition. PySpark, Delta Lake, NYC TLC taxi data (5.97M rows), four pre-aggregated Gold tables feeding a SQL dashboard, and a custom assertion framework with 13 data-quality checks across every layer. | Databricks · PySpark · Delta Lake · SQL |
 
 ---
 
