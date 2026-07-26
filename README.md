@@ -86,7 +86,7 @@ I'm a Data Scientist and ML / AI Engineer based in Lisbon, working at the inters
 
 Distinct from the projects above — not a product with a demo, but an **investigation that asks a question and publishes whatever the answer turns out to be**.
 
-|  Study  | Question & finding | Method |
+|    Study    | Question & finding | Method |
 |---|---|---|
 | <a href="https://github.com/hugocorreia123/prism-token-taxes" target="_blank" rel="noopener noreferrer"><b>🔺 Prism — The Token Taxes</b></a><br><img src="https://img.shields.io/badge/848_runs-pre--registered-4F46E5?style=flat" alt="848 runs, pre-registered"/> | **Do the popular ways of cutting LLM token spend actually save money?** Measured against *all-in tokens per **successful** task* — the number that decides the bill, since a failed run costs full price. On a **3B model the three techniques applied together roughly doubled the cost per completed task**: accuracy fell 31.3% → 16.2%, so the token savings were swamped by paying for twice as many failures. On a **70B model the same interventions are absorbed with no accuracy penalty** — the damage tracks model capacity, not the techniques (transfer arm still completing). Also isolated a **Schema × Budget interaction** that neither factor produces alone. Pre-registered 2×2×2 factorial with a non-inferiority gate and a full audit trail — including a boolean-inversion bug that would have flipped every accuracy conclusion, caught by a synthetic-recovery test before it reached one. | MLX (local Qwen2.5-3B) · Groq (Llama-3.3-70B) · statsmodels GLM · cluster bootstrap + BCa · TOST · BFCL-v4 · GSM8K |
 
